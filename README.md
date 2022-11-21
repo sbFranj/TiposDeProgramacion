@@ -17,10 +17,10 @@ Además podemos visitar este pequeño vídeo explicativo por si tenemos algún t
 ## **Bajo nivel** - Es un lenguaje trasladado fácilmente al lenguaje de máquina, como puede ser el lenguaje de máquina es el nivel más bajo, empleando códigos binarios para describir operaciones  y direcciones, otro ejemplo puede ser el lenguaje ensamblador que representa de forma sencilla las instrucciones de una determinada máquina.
 
 ## **Medio nivel** - Este lenguaje se usa para el desarrollo de distintas aplicaciones como hojas de cálculo, sistemas operativos o gestores de bases de datos entre otros, algún ejemplo de este lenguaje de programación puede ser C, Basic y aunque son un poco de mayor nivel también se les considera de nivel medio a algunos como C++ o Cobol.
-
+![](https://github.com/sbFranj/TiposDeProgramacion/blob/main/RecursosGraficos/PHP.gif)
 ## **Alto nivel** - Este tipo de lenguaje proporciona instrucciones que permiten realizar operaciones más complejas y diseñar estructuras para resolver problemas como es el caso de C, java o php entre otros.
 
-![](https://github.com/sbFranj/TiposDeProgramacion/blob/main/RecursosGraficos/PHP.gif)
+
 
 ---
 
@@ -30,9 +30,10 @@ Además podemos visitar este pequeño vídeo explicativo por si tenemos algún t
 
 
 ## **Interpretados** - Estos tipos son ejecutores paso a paso del código fuente, donde no se lleva a cabo una traducción en la pre-ejecución aunque el término compilador o intérprete es algo vago ya que cada vez es más frecuente una combinación entre ambos ya que cualquier lenguaje puede ser implementado mediante uno u otro, aunque estos lenguajes pueden ser más rápidos ya que se han traducido previamente. Algunos ejemplos que encontramos son C, C** o Java.
-![](https://github.com/sbFranj/TiposDeProgramacion/blob/main/RecursosGraficos/C%2B%2B.gif)
+
 
 ## **Virtuales** - Estos lenguajes son más portables que los lenguajes compilados puesto que el código que se genera tras la compilación es un código intermedio o bytecode, este código puede ser a su vez interpretado por una máquina virtual instalada en cualquier equipo, pueden ser Php o Java.
+![](https://github.com/sbFranj/TiposDeProgramacion/blob/main/RecursosGraficos/C%2B%2B.gif)
 
 
 ---
