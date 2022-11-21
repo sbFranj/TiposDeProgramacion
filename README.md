@@ -17,7 +17,7 @@ Además podemos visitar este pequeño vídeo explicativo por si tenemos algún t
 ## **Bajo nivel** - Es un lenguaje trasladado fácilmente al lenguaje de máquina, como puede ser el lenguaje de máquina es el nivel más bajo, empleando códigos binarios para describir operaciones  y direcciones, otro ejemplo puede ser el lenguaje ensamblador que representa de forma sencilla las instrucciones de una determinada máquina.
 
 ## **Medio nivel** - Este lenguaje se usa para el desarrollo de distintas aplicaciones como hojas de cálculo, sistemas operativos o gestores de bases de datos entre otros, algún ejemplo de este lenguaje de programación puede ser C, Basic y aunque son un poco de mayor nivel también se les considera de nivel medio a algunos como C++ o Cobol.
-![](https://github.com/sbFranj/TiposDeProgramacion/blob/main/RecursosGraficos/PHP.gif)
+![](https://github.com/sbFranj/TiposDeProgramacion/blob/main/RecursosGraficos/C%2B%2B.gif)
 ## **Alto nivel** - Este tipo de lenguaje proporciona instrucciones que permiten realizar operaciones más complejas y diseñar estructuras para resolver problemas como es el caso de C, java o php entre otros.
 
 
@@ -33,7 +33,7 @@ Además podemos visitar este pequeño vídeo explicativo por si tenemos algún t
 
 
 ## **Virtuales** - Estos lenguajes son más portables que los lenguajes compilados puesto que el código que se genera tras la compilación es un código intermedio o bytecode, este código puede ser a su vez interpretado por una máquina virtual instalada en cualquier equipo, pueden ser Php o Java.
-![](https://github.com/sbFranj/TiposDeProgramacion/blob/main/RecursosGraficos/C%2B%2B.gif)
+![](https://github.com/sbFranj/TiposDeProgramacion/blob/main/RecursosGraficos/PHP.gif)
 
 
 ---
