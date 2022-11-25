@@ -32,7 +32,7 @@ Además podemos visitar este pequeño vídeo explicativo por si tenemos algún t
   
   [Virtuales](#virtuales)
   
-### **Paradigma**
+### [**Paradigma**](#3-paradigmáticos)
 
    [Imperativo](#imperativos)
   
@@ -107,7 +107,9 @@ Además podemos visitar este pequeño vídeo explicativo por si tenemos algún t
    
    
    
-### Y por último veremos los **_paradigmáticos_**, y de este tipo existen los siguientes:
+### **3 paradigmáticos**
+
+### De este tipo existen los siguientes:
 
 ## **Imperativos**
 **Estos lenguajes consisten en una sucesión de instrucciones o conjunto de sentencias, como si el programador diera órdenes concretas, en este caso el desarrollador describe paso por paso todo lo que hará su programa, pueden ser, Pascal, COBOL, C, etc.**
