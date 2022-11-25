@@ -119,7 +119,7 @@ Además podemos visitar este pequeño vídeo explicativo por si tenemos algún t
 
 </div>
 
-<div align="center"> #FIN </div
+<div align="center"> # FIN </div
 
 
 
