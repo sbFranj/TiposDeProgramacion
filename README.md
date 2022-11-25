@@ -119,8 +119,11 @@ Además podemos visitar este pequeño vídeo explicativo por si tenemos algún t
 
 </div>
 
-<div align="center"> # FIN </div
 
+   
+
+   
+ 
 
 
 [imagen1]:https://github.com/sbFranj/TiposDeProgramacion/blob/main/RecursosGraficos/Portada.jpg
