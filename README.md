@@ -16,7 +16,7 @@ Además podemos visitar este pequeño vídeo explicativo por si tenemos algún t
 ### ÍNDICE 
 ### **Nivel de abstracción**
 
-   [Bajo nivel ](bajo-nivel) 
+   [Bajo nivel ](#bajo-nivel) 
 
    Medio nivel
 
