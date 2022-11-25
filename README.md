@@ -16,7 +16,7 @@ Además podemos visitar este pequeño vídeo explicativo por si tenemos algún t
 ### ÍNDICE 
 ### **Nivel de abstracción**
 
-   Bajo nivel 
+   [Bajo nivel ](bajo-nivel) 
 
    Medio nivel
 
@@ -56,7 +56,8 @@ Además podemos visitar este pequeño vídeo explicativo por si tenemos algún t
 
 ### Una vez puestos en situación comencemos a explicar los diferentes tipos que hay atendiendo a su **_nivel de abstracción_** diferenciamos 3 tipos:
 
-## **Bajo nivel** - Es un lenguaje trasladado fácilmente al lenguaje de máquina, como puede ser el lenguaje de máquina es el nivel más bajo, empleando códigos binarios para describir operaciones  y direcciones, otro ejemplo puede ser el lenguaje ensamblador que representa de forma sencilla las instrucciones de una determinada máquina.
+## **Bajo nivel**
+**Es un lenguaje trasladado fácilmente al lenguaje de máquina, como puede ser el lenguaje de máquina es el nivel más bajo, empleando códigos binarios para describir operaciones  y direcciones, otro ejemplo puede ser el lenguaje ensamblador que representa de forma sencilla las instrucciones de una determinada máquina.**
 
 ## **Medio nivel** - Este lenguaje se usa para el desarrollo de distintas aplicaciones como hojas de cálculo, sistemas operativos o gestores de bases de datos entre otros, algún ejemplo de este lenguaje de programación puede ser C, Basic y aunque son un poco de mayor nivel también se les considera de nivel medio a algunos como C++ o Cobol.
 
