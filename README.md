@@ -43,7 +43,7 @@ Además podemos visitar este pequeño vídeo explicativo por si tenemos algún t
   Funcionales
   
    Lógicos
-  </div>
+ </div>
   
   
   
@@ -84,12 +84,11 @@ Además podemos visitar este pequeño vídeo explicativo por si tenemos algún t
 
 <div align="center">
    
- ![](https://github.com/sbFranj/TiposDeProgramacion/blob/main/RecursosGraficos/PHP.gif)
-   
-<div>
+ ![](https://github.com/sbFranj/TiposDeProgramacion/blob/main/RecursosGraficos/PHP.gif) <div>
 
 ---
-
+<div align="left">
+   
 ### Y por último veremos los **_paradigmáticos_**, y de este tipo existen los siguientes:
 
 ## **Imperativos** - Estos lenguajes consisten en una sucesión de instrucciones o conjunto de sentencias, como si el programador diera órdenes concretas, en este caso el desarrollador describe paso por paso todo lo que hará su programa, pueden ser, Pascal, COBOL, C, etc…
@@ -115,7 +114,7 @@ Además podemos visitar este pequeño vídeo explicativo por si tenemos algún t
 
 ## **Lógicos** - El problema se modela con enunciados de lógica de primer orden. Una lógica de primer orden es un sistema formal para estudiar los lenguajes de primer orden que son aquellos lenguajes formales con cuantificadores, variables y funciones, algunos ejemplos son Python, JavaScript, Racket, Ruby, PHP.
 
-
+</div>
 
 
 
