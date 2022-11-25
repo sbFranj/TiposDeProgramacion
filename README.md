@@ -24,7 +24,7 @@ Además podemos visitar este pequeño vídeo explicativo por si tenemos algún t
 
    [Alto nivel ](#alto-nivel)
   
-### **Forma de ejecución**
+### [**Forma de Ejecución**](#forma-de-ejecución)
 
    [Compiladas](#compilados)
   
@@ -82,7 +82,9 @@ Además podemos visitar este pequeño vídeo explicativo por si tenemos algún t
 <br></br>
 ---
 
-### Después de esta explicación nos centraremos en su **_forma de ejecución_** que también las dividiremos en 3 tipos:
+### **Forma de Ejecución**
+
+### Después de esta explicación nos centraremos en su _forma de ejecución_ que la dividiremos también en 3 tipos:
 
 ## **Compilados**
 **Es tipo de lenguaje es aquel cuyas implementaciones son normalmente traductores que generan código de máquina a partir del código fuente o también conocidos como compiladores y se suelen asociar con lenguajes de bajo nivel. Algunos ejemplos de este tipo de forma de ejecución pueden ser C, Basic, ALGOL o C++.**
