@@ -18,9 +18,9 @@ Además podemos visitar este pequeño vídeo explicativo por si tenemos algún t
 
    [Bajo nivel ](#bajo-nivel) 
 
-   Medio nivel
+   [Medio nivel ](#medio-nivel)
 
-   Alto nivel
+   [Alto nivel ](#alto-nivel)
   
 ### **Forma de ejecución**
 
