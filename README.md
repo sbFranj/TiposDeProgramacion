@@ -10,6 +10,47 @@
 
 Además podemos visitar este pequeño vídeo explicativo por si tenemos algún tipo de [duda]
 
+
+
+### ÍNDICE
+- Nivel de abstracción
+
+  - Bajo nivel 
+
+  - Medio nivel
+
+  - Alto nivel
+  
+- *Forma de ejecución*
+
+  - Compiladas
+  
+  - Interpretadas
+  
+  - Virtuales
+  
+- *Paradigma*
+
+  - Imperativo
+  
+  - Declarativo
+  
+  - Procedimentales
+  
+  - Orientado a objeto
+  
+  - Funcionales
+  
+  - Lógicos
+  
+  
+  
+  
+  
+  
+  
+  
+  
 ---
 
 ### Una vez puestos en situación comencemos a explicar los diferentes tipos que hay atendiendo a su **_nivel de abstracción_** diferenciamos 3 tipos:
