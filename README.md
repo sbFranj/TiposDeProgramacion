@@ -1,4 +1,4 @@
-ación lógica - Pr**_Repositorio destinado a definir y documentar los distintos tipos de programación._**
+**_Repositorio destinado a definir y documentar los distintos tipos de programación._**
 
 # <div align="center">Tipos de Programacion</div>
 
@@ -119,7 +119,7 @@ Además podemos visitar este pequeño vídeo explicativo por si tenemos algún t
 
 </div>
 
-
+<div align="center"> #FIN </div
 
 
 
