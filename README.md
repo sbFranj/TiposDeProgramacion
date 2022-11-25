@@ -1,4 +1,4 @@
-ación lógica - Pr**_Repositorio destinado a definir y documentar los distintos tipos de programación._**
+**_Repositorio destinado a definir y documentar los distintos tipos de programación._**
 
 # <div align="center">Tipos de Programacion</div>
 
@@ -11,6 +11,8 @@ ación lógica - Pr**_Repositorio destinado a definir y documentar los distintos
 Además podemos visitar este pequeño vídeo explicativo por si tenemos algún tipo de [duda]
 
 ---
+<br></br>
+
 <div align="center">
 
 ### ÍNDICE 
@@ -48,7 +50,7 @@ Además podemos visitar este pequeño vídeo explicativo por si tenemos algún t
   
   
   
-  
+  <br></br>
   
   
   
@@ -65,7 +67,7 @@ Además podemos visitar este pequeño vídeo explicativo por si tenemos algún t
 <div align="center">
    
  ![](https://github.com/sbFranj/TiposDeProgramacion/blob/main/RecursosGraficos/C%2B%2B.gif)
-   
+   <br></br>
 </div>
    
 ## **Alto nivel** 
@@ -127,12 +129,20 @@ Además podemos visitar este pequeño vídeo explicativo por si tenemos algún t
 ## **Lógicos**
    
 **El problema se modela con enunciados de lógica de primer orden. Una lógica de primer orden es un sistema formal para estudiar los lenguajes de primer orden que son aquellos lenguajes formales con cuantificadores, variables y funciones, algunos ejemplos son Python, JavaScript, Racket, Ruby, PHP.**
+   <br></br>
+   <br></br>
+   <br></br>
+<div align="center">
+ 
+   
+**TRABAJO REALIZADO POR:**
+   
+   **[Fran Sánchez](https://github.com/sbFranj)** || 
+   **[Fran Ramírez](https://github.com/FranJRG)** || 
+   **[Kike Rueda](https://github.com/kikerueda)**
 
-</div>
-
-
-
-
+**FIN**
+   </dev>
 
 [imagen1]:https://github.com/sbFranj/TiposDeProgramacion/blob/main/RecursosGraficos/Portada.jpg
 [duda]:https://youtu.be/pWw4UtQhdek
