@@ -1,4 +1,4 @@
-**_Repositorio destinado a definir y documentar los distintos tipos de programación._**
+ación lógica - Pr**_Repositorio destinado a definir y documentar los distintos tipos de programación._**
 
 # <div align="center">Tipos de Programacion</div>
 
@@ -24,25 +24,25 @@ Además podemos visitar este pequeño vídeo explicativo por si tenemos algún t
   
 ### **Forma de ejecución**
 
-   Compiladas
+   [Compiladas](#compilados)
   
-   Interpretadas
+   [Interpretadas](#interpretados)
   
-  Virtuales
+  [Virtuales](#virtuales)
   
 ### **Paradigma**
 
-   Imperativo
+   [Imperativo](#imperativos)
   
-   Declarativo
+   [Declarativo](#declarativos)
   
-   Procedimentales
+   [Procedimentales](#procedimentales)
   
-   Orientado a objeto
+   [Orientado a objeto](#orientados-a-objetos)
   
-  Funcionales
+  [Funcionales](#funcionales)
   
-   Lógicos
+   [Lógicos ](#lógicos)
  </div>
   
   
@@ -77,13 +77,16 @@ Además podemos visitar este pequeño vídeo explicativo por si tenemos algún t
 
 ### Después de esta explicación nos centraremos en su **_forma de ejecución_** que también las dividiremos en 3 tipos:
 
-## **Compilados** - Es tipo de lenguaje es aquel cuyas implementaciones son normalmente traductores que generan código de máquina a partir del código fuente o también conocidos como compiladores y se suelen asociar con lenguajes de bajo nivel. Algunos ejemplos de este tipo de forma de ejecución pueden ser C, Basic, ALGOL o C++.
+## **Compilados**
+**Es tipo de lenguaje es aquel cuyas implementaciones son normalmente traductores que generan código de máquina a partir del código fuente o también conocidos como compiladores y se suelen asociar con lenguajes de bajo nivel. Algunos ejemplos de este tipo de forma de ejecución pueden ser C, Basic, ALGOL o C++.**
 
 
-## **Interpretados** - Estos tipos son ejecutores paso a paso del código fuente, donde no se lleva a cabo una traducción en la pre-ejecución aunque el término compilador o intérprete es algo vago ya que cada vez es más frecuente una combinación entre ambos ya que cualquier lenguaje puede ser implementado mediante uno u otro, aunque estos lenguajes pueden ser más rápidos ya que se han traducido previamente. Algunos ejemplos que encontramos son C, C** o Java.
+## **Interpretados**
+**Estos tipos son ejecutores paso a paso del código fuente, donde no se lleva a cabo una traducción en la pre-ejecución aunque el término compilador o intérprete es algo vago ya que cada vez es más frecuente una combinación entre ambos ya que cualquier lenguaje puede ser implementado mediante uno u otro, aunque estos lenguajes pueden ser más rápidos ya que se han traducido previamente. Algunos ejemplos que encontramos son C, C++ o Java.**
 
 
-## **Virtuales** - Estos lenguajes son más portables que los lenguajes compilados puesto que el código que se genera tras la compilación es un código intermedio o bytecode, este código puede ser a su vez interpretado por una máquina virtual instalada en cualquier equipo, pueden ser Php o Java.
+## **Virtuales**
+**Estos lenguajes son más portables que los lenguajes compilados puesto que el código que se genera tras la compilación es un código intermedio o bytecode, este código puede ser a su vez interpretado por una máquina virtual instalada en cualquier equipo, pueden ser Php o Java.**
 
 <div align="center">
    
@@ -94,10 +97,12 @@ Además podemos visitar este pequeño vídeo explicativo por si tenemos algún t
    
 ### Y por último veremos los **_paradigmáticos_**, y de este tipo existen los siguientes:
 
-## **Imperativos** - Estos lenguajes consisten en una sucesión de instrucciones o conjunto de sentencias, como si el programador diera órdenes concretas, en este caso el desarrollador describe paso por paso todo lo que hará su programa, pueden ser, Pascal, COBOL, C, etc…
+## **Imperativos**
+**Estos lenguajes consisten en una sucesión de instrucciones o conjunto de sentencias, como si el programador diera órdenes concretas, en este caso el desarrollador describe paso por paso todo lo que hará su programa, pueden ser, Pascal, COBOL, C, etc.**
 
 
-## **Declarativos** - Los más conocidos son Prolog, Lisp, Miranda o Haskell, este paradigma utiliza el principio de razonamiento lógico para responder a las preguntas o cuestiones consultadas y se dividen en 2:
+## **Declarativos**
+**Los más conocidos son Prolog, Lisp, Miranda o Haskell, este paradigma utiliza el principio de razonamiento lógico para responder a las preguntas o cuestiones consultadas y se dividen en 2:**
 
 - ### Programación lógica - Prolog.
 
@@ -105,25 +110,28 @@ Además podemos visitar este pequeño vídeo explicativo por si tenemos algún t
 - ### Programación funcional - Lisp, Scala, Java.
 
 
-## **Procedimentales** - El paradigma procedimental se refiere a un conjunto de instrucciones o sentencias por lo general suelen ser pequeños programas, con unas pocas entradas, un cálculo específico y una salida esperada, en este caso algunos ejemplos son C++, StarBasic, InfoBasic, Pascal.
+## **Procedimentales**
+**El paradigma procedimental se refiere a un conjunto de instrucciones o sentencias por lo general suelen ser pequeños programas, con unas pocas entradas, un cálculo específico y una salida esperada, en este caso algunos ejemplos son C++, StarBasic, InfoBasic, Pascal.**
 
 
-## **Orientados a objetos** - El comportamiento del programa es llevado a cabo por objetos , entidades que representan elementos del problema a resolver y tienen atributos y comportamiento, como son ADA, Python, Java, Objective C, etc..
+## **Orientados a objetos**
+   
+**El comportamiento del programa es llevado a cabo por objetos , entidades que representan elementos del problema a resolver y tienen atributos y comportamiento, como son ADA, Python, Java, Objective C, etc..**
 
 ![](https://github.com/sbFranj/TiposDeProgramacion/blob/main/RecursosGraficos/Python.gif)
 
-## **Funcionales** - En este caso los programas se componen de funciones, es decir, implementaciones de comportamientos que reciben un conjunto de datos de entrada y devuelven un valor de salida, hablamos de lenguajes como LISP, Haskell, Erlang, Scala, etc…
+## **Funcionales**
+**En este caso los programas se componen de funciones, es decir, implementaciones de comportamientos que reciben un conjunto de datos de entrada y devuelven un valor de salida, hablamos de lenguajes como LISP, Haskell, Erlang, Scala, etc…**
 
 
-## **Lógicos** - El problema se modela con enunciados de lógica de primer orden. Una lógica de primer orden es un sistema formal para estudiar los lenguajes de primer orden que son aquellos lenguajes formales con cuantificadores, variables y funciones, algunos ejemplos son Python, JavaScript, Racket, Ruby, PHP.
+## **Lógicos**
+   
+**El problema se modela con enunciados de lógica de primer orden. Una lógica de primer orden es un sistema formal para estudiar los lenguajes de primer orden que son aquellos lenguajes formales con cuantificadores, variables y funciones, algunos ejemplos son Python, JavaScript, Racket, Ruby, PHP.**
 
 </div>
 
 
-   
 
-   
- 
 
 
 [imagen1]:https://github.com/sbFranj/TiposDeProgramacion/blob/main/RecursosGraficos/Portada.jpg
