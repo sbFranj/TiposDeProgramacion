@@ -16,7 +16,7 @@ Además podemos visitar este pequeño vídeo explicativo por si tenemos algún t
 <div align="center">
 
 ### ÍNDICE 
-### [**Nivel de abstracción**](#nivel-de-abstracción)
+### [**Nivel de abstracción**](#1-nivel-de-abstracción)
 
    [Bajo nivel ](#bajo-nivel) 
 
@@ -24,7 +24,7 @@ Además podemos visitar este pequeño vídeo explicativo por si tenemos algún t
 
    [Alto nivel ](#alto-nivel)
   
-### [**Forma de Ejecución**](#forma-de-ejecución)
+### [**Forma de Ejecución**](#2-forma-de-ejecución)
 
    [Compiladas](#compilados)
   
@@ -56,7 +56,7 @@ Además podemos visitar este pequeño vídeo explicativo por si tenemos algún t
   
 ---
 
-### **Nivel de Abstracción**
+### **1 Nivel de Abstracción**
 
 **Atendiendo a su _nivel de abstracción_ diferenciamos 3 tipos:**
 
@@ -82,7 +82,7 @@ Además podemos visitar este pequeño vídeo explicativo por si tenemos algún t
 <br></br>
 ---
 
-### **Forma de Ejecución**
+### **2 Forma de Ejecución**
 
 ### Después de esta explicación nos centraremos en su _forma de ejecución_ que la dividiremos también en 3 tipos:
 
