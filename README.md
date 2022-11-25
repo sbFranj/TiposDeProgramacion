@@ -1,4 +1,4 @@
-**_Repositorio destinado a definir y documentar los distintos tipos de programación._**
+ación lógica - Pr**_Repositorio destinado a definir y documentar los distintos tipos de programación._**
 
 # <div align="center">Tipos de Programacion</div>
 
@@ -59,7 +59,8 @@ Además podemos visitar este pequeño vídeo explicativo por si tenemos algún t
 ## **Bajo nivel**
 **Es un lenguaje trasladado fácilmente al lenguaje de máquina, como puede ser el lenguaje de máquina es el nivel más bajo, empleando códigos binarios para describir operaciones  y direcciones, otro ejemplo puede ser el lenguaje ensamblador que representa de forma sencilla las instrucciones de una determinada máquina.**
 
-## **Medio nivel** - Este lenguaje se usa para el desarrollo de distintas aplicaciones como hojas de cálculo, sistemas operativos o gestores de bases de datos entre otros, algún ejemplo de este lenguaje de programación puede ser C, Basic y aunque son un poco de mayor nivel también se les considera de nivel medio a algunos como C++ o Cobol.
+## **Medio nivel** 
+**Este lenguaje se usa para el desarrollo de distintas aplicaciones como hojas de cálculo, sistemas operativos o gestores de bases de datos entre otros, algún ejemplo de este lenguaje de programación puede ser C, Basic y aunque son un poco de mayor nivel también se les considera de nivel medio a algunos como C++ o Cobol.**
 
 <div align="center">
    
