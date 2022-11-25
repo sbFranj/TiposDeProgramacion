@@ -16,7 +16,7 @@ Además podemos visitar este pequeño vídeo explicativo por si tenemos algún t
 <div align="center">
 
 ### ÍNDICE 
-### **Nivel de abstracción**
+### [**Nivel de abstracción**](#nivel-de-abstracción)
 
    [Bajo nivel ](#bajo-nivel) 
 
@@ -56,7 +56,9 @@ Además podemos visitar este pequeño vídeo explicativo por si tenemos algún t
   
 ---
 
-### Una vez puestos en situación comencemos a explicar los diferentes tipos que hay atendiendo a su **_nivel de abstracción_** diferenciamos 3 tipos:
+### **Nivel de Abstracción**
+
+**Atendiendo a su _nivel de abstracción_ diferenciamos 3 tipos:**
 
 ## **Bajo nivel**
 **Es un lenguaje trasladado fácilmente al lenguaje de máquina, como puede ser el lenguaje de máquina es el nivel más bajo, empleando códigos binarios para describir operaciones  y direcciones, otro ejemplo puede ser el lenguaje ensamblador que representa de forma sencilla las instrucciones de una determinada máquina.**
