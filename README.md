@@ -23,6 +23,7 @@ Además podemos visitar este pequeño vídeo explicativo por si tenemos algún t
    [Medio nivel ](#medio-nivel)
 
    [Alto nivel ](#alto-nivel)
+   <br></br>
   
 ### [**Forma de Ejecución**](#2-forma-de-ejecución)
 
@@ -31,6 +32,7 @@ Además podemos visitar este pequeño vídeo explicativo por si tenemos algún t
    [Interpretadas](#interpretados)
   
   [Virtuales](#virtuales)
+  <br></br>
   
 ### [**Paradigma**](#3-paradigmáticos)
 
@@ -56,7 +58,7 @@ Además podemos visitar este pequeño vídeo explicativo por si tenemos algún t
   
 ---
 
-### **1 Nivel de Abstracción**
+## **1 Nivel de Abstracción**
 
 **Atendiendo a su _nivel de abstracción_ diferenciamos 3 tipos:**
 
@@ -82,7 +84,7 @@ Además podemos visitar este pequeño vídeo explicativo por si tenemos algún t
 <br></br>
 ---
 
-### **2 Forma de Ejecución**
+## **2 Forma de Ejecución**
 
 ### Después de esta explicación nos centraremos en su _forma de ejecución_ que la dividiremos también en 3 tipos:
 
@@ -107,9 +109,9 @@ Además podemos visitar este pequeño vídeo explicativo por si tenemos algún t
    
    
    
-### **3 paradigmáticos**
+## **3 Paradigmáticos**
 
-### De este tipo existen los siguientes:
+
 
 ## **Imperativos**
 **Estos lenguajes consisten en una sucesión de instrucciones o conjunto de sentencias, como si el programador diera órdenes concretas, en este caso el desarrollador describe paso por paso todo lo que hará su programa, pueden ser, Pascal, COBOL, C, etc.**
