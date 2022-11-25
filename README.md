@@ -68,7 +68,8 @@ Además podemos visitar este pequeño vídeo explicativo por si tenemos algún t
    
 </div>
    
-## **Alto nivel** - Este tipo de lenguaje proporciona instrucciones que permiten realizar operaciones más complejas y diseñar estructuras para resolver problemas como es el caso de C, java o php entre otros.
+## **Alto nivel** 
+**Este tipo de lenguaje proporciona instrucciones que permiten realizar operaciones más complejas y diseñar estructuras para resolver problemas como es el caso de C, java o php entre otros**
 
 
 
