@@ -34,7 +34,7 @@ Además podemos visitar este pequeño vídeo explicativo por si tenemos algún t
   [Virtuales](#virtuales)
   <br></br>
   
-### [**Paradigma**](#3-paradigmáticos)
+### [**Paradigma**](#3-paradigma)
 
    [Imperativo](#imperativos)
   
