@@ -109,7 +109,7 @@ Además podemos visitar este pequeño vídeo explicativo por si tenemos algún t
    
    
    
-## **3 Paradigmáticos**
+## **3 Paradigma**
 
 
 
